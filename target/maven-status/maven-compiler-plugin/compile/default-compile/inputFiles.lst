@@ -1,0 +1,10 @@
+/home/janze/git_project/measure-api-school/src/main/java/com/ipin/mas/mapping/DataList.java
+/home/janze/git_project/measure-api-school/src/main/java/com/ipin/mas/advice/SchoolControllerAdvice.java
+/home/janze/git_project/measure-api-school/src/main/java/com/ipin/mas/errorhandler/ParameterIllegalException.java
+/home/janze/git_project/measure-api-school/src/main/java/com/ipin/mas/mapping/BaseMapping.java
+/home/janze/git_project/measure-api-school/src/main/java/com/ipin/mas/consts/ErrorCode.java
+/home/janze/git_project/measure-api-school/src/main/java/com/ipin/mas/errorhandler/ParameterMissingException.java
+/home/janze/git_project/measure-api-school/src/main/java/com/ipin/mas/controller/SchoolController.java
+/home/janze/git_project/measure-api-school/src/main/java/com/ipin/mas/Application.java
+/home/janze/git_project/measure-api-school/src/main/java/com/ipin/mas/errorhandler/AppException.java
+/home/janze/git_project/measure-api-school/src/main/java/com/ipin/mas/service/SchoolService.java
